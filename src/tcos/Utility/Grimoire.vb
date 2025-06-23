@@ -6,4 +6,6 @@
     Friend Const YES_TEXT = "Yes"
     Friend Const NO_TEXT = "No"
     Friend Const QUIT_CONFIRM_CAPTION = "[red]Are you sure you want to quit?[/]"
+    Friend Const NEW_READING_TEXT = "New Reading..."
+    Friend Const NEVER_MIND_TEXT = "(never mind)"
 End Module
